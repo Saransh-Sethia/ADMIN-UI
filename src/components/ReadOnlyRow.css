@@ -1,0 +1,12 @@
+.role::first-letter {
+    text-transform: capitalize;
+}
+
+.edit-button {
+    color: #000d33;
+    margin-right: 5px;
+}
+
+.delete-button {
+    color: #990000
+}
